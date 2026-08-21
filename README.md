@@ -4,9 +4,7 @@
 This project showcases a hardened, enterprise-grade cloud architecture for a web application deployed on Microsoft Azure. The infrastructure is engineered using a "Defense-in-Depth" strategy to isolate sensitive application data, mitigate public-facing web threats, and manage secrets securely without code exposure.
 
 ## 🏗️ Architecture Design
-<img src="azure.png" alt="Azure Secure Architecture" width="100%">
-
-
+<img src="azure.PNG" alt="Azure Secure Architecture" width="100%">
 
 ## 🕵️‍♂️ Threat Modeling & Attack Scenario Simulation
 
